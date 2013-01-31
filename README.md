@@ -1,9 +1,14 @@
+Unity-Car
+=========
+
 Just simple car rig for Unity 4+
+
+**Life demo:** http://peko.github.com/Unity-Car/
 
 <img src="https://github.com/peko/Unity-Car/blob/master/blender.png?raw=true"/>
 <img src="https://github.com/peko/Unity-Car/blob/master/unity.png?raw=true"/>
 
-The Car model from the Borderlands 2 game
+The Car model was [borrowed](http://www.gildor.org/en/projects/umodel) from the Borderlands 2 game
 
 Useful links
 ============
