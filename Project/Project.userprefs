@@ -1,12 +1,20 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js">
-    <Files>
-      <File FileName="Assets\AntiRollBar.cs" Line="9" Column="1" />
-      <File FileName="Assets\Controller.cs" Line="47" Column="45" />
-      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" Line="10" Column="61" />
-      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js" Line="20" Column="44" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CarController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
