@@ -4,6 +4,7 @@ Unity-Car
 Just simple car rig for Unity 4+
 
 **Life demo:** http://peko.github.com/Unity-Car/
+*Use cursor keys for drive*
 
 <img src="https://github.com/peko/Unity-Car/blob/master/blender.png?raw=true"/>
 <img src="https://github.com/peko/Unity-Car/blob/master/unity.png?raw=true"/>
